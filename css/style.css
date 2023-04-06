@@ -1,18 +1,18 @@
 /* Created by: Ben Thomson
-* Created on: 04/04/2023
+* Created on: 04/05/2023
 * This CSS file defines the style for index.html
-* ICS2O-Unit3-04-HTML-FarenheitCelsius
+* ICS2O-Assign-03-HTML-CurrencyConversion
 */
 
 body {
-  background-color: rgb(192 152 145);
+  background-color: rgb(201 173 167);
   font-weight: 900;
-  color: #2a0800;
+  color: rebeccapurple;
 }
 
 h1 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  background-color: hsl(15deg 27% 37%);
+  background-color: hsl(309deg 6% 58%);
   padding: 40px;
   text-align: center;
 }
@@ -20,14 +20,14 @@ h1 {
 form {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: 900;
-  background-color: #bea8a7;
+  background-color: #f2e9e4;
   padding: 20px;
 }
 
 p {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: 900;
-  background-color: #bea8a7;
+  background-color: #f2e9e4;
   padding: 20px;
 }
 
