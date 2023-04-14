@@ -16,5 +16,5 @@ function convertCanadianDollars () {
   let amountEuros = amountCanadianDollars * 0.6791
 
   // Display converted amounts in GBP and EUR back to user
-  document.getElementById("calculations").innerHTML = "The value of your money in British pounds sterling is £" + amountBritishPounds.toFixed(2) + ", and the the value in Euros is €" + amountEuros.toFixed(2) + "."
+  document.getElementById("calculations").innerHTML = "The value of your money in British pounds sterling is £" + amountBritishPounds.toFixed(2) + ", and the value in Euros is €" + amountEuros.toFixed(2) + "."
 }
